@@ -58,7 +58,7 @@ The course is split in 8 sessions, each 4 lectures long.
   - Exercises and Homework: 
     - [01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) 
     - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
-  - Solutions to Exercises: [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb)
+  - Solutions to Exercises: [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) 
 
 
 
