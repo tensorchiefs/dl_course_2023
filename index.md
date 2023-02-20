@@ -53,7 +53,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 ## Syllabus (might change during course) 
 - Day 1
-  - Topic and Slides: Introduction, Fully Connected Networks, Keras [slides](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/01_Introduction.pdf)
+  - Topic and Slides: Introduction, Fully Connected Networks, Keras [01_Introduction](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/01_Introduction.pdf)
   - Additional Material: [Network Playground](https://playground.tensorflow.org/)
   - Exercises and Homework: 
     - [01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) 
