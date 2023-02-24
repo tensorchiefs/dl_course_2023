@@ -72,14 +72,15 @@ The course is split in 8 sessions, each 4 lectures long.
   - Additional Material: 
     - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
   - Exercises and Homework: 
-    - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
+  - <!--- auskommentieren 
+    - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb)--->
     - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)
     - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
     - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
     - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) 
     - [07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_norm.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_norm.ipynb)
   - Solutions to Exercises: 
-    - [02_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb), [02_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) 
+    - <!--- auskommentieren - [02_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb), [02_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb)--->
     - [03_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist_sol.ipynb), [03_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist_sol.ipynb) 
     - [04_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb), [04_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb) 
     - [05_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb), [05_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb) 
