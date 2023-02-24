@@ -61,6 +61,24 @@ The course is split in 8 sessions, each 4 lectures long.
   - Solutions to Exercises: [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb) 
 
 
+- Day 2
+  - Topic and Slides:
+    - Looking back at fcNN, working with loss curves, convolutional neural networks 
+    - [slides](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/02_fcNN_CNN.pdf)
+  - Additional Material: 
+    - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+  - Exercises and Homework: 
+    - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)
+    - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
+    - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
+    - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) 
+    - [07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_norm.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_norm.ipynb)
+  - Solutions to Exercises: 
+    - [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist_sol.ipynb) 
+    - [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb) 
+    - [sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb) [sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb) 
+   
+
 
 
 
