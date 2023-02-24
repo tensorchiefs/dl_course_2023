@@ -57,7 +57,7 @@ The course is split in 8 sessions, each 4 lectures long.
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises and Homework: 
-    - [01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) 
+    - [01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass.ipynb) 
   - Solutions to Exercises: 
     - [01_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb), [01_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/01_simple_forward_pass_sol.ipynb) 
 
