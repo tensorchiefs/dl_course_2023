@@ -10,7 +10,7 @@ To easily follow the course please make sure that you are familiar with the some
 ## Info for the projects
 You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
 
-If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md). 
+If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md).  
 
 Examples for projects from previous versions the DL course:
   [2018, 2019](projects.md)
