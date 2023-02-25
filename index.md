@@ -72,8 +72,7 @@ The course is split in 8 sessions, each 4 lectures long.
   - Additional Material: 
     - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
   - Exercises and Homework: 
-  - <!--- auskommentieren 
-    - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb)--->
+     <!--- auskommentieren - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/02_fcnn_with_banknote.ipynb)--->
     - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/03_fcnn_mnist.ipynb)
     - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
     - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
