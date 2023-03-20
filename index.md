@@ -114,7 +114,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 5
   - Topics: Probabilistic Prediction Models
-   - Slides:  
+  - Slides:  
   	- [05_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/05_Details.pdf)
   - Exercises and Homework:  
 	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
