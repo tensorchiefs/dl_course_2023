@@ -92,9 +92,10 @@ The course is split in 8 sessions, each 4 lectures long.
   - Exercises and Homework:  
     - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
     - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_tricks_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
-	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2023/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb)
-<!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv.ipynb) --->
-  - Solutions to Exercises: 
+	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2023/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) 
+    
+  <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv.ipynb) --->
+  - Solutions to Exercises:  
     - [06_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) 
 	- [08_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
 <!--- auskommentieren	- [09_sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/09_1DConv_sol.ipynb) --->
@@ -110,6 +111,17 @@ The course is split in 8 sessions, each 4 lectures long.
 	- Simple Max Like [12_maxlike](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
 	- Max Like MNIST [12b_mnist_loglike](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/12b_mnist_loglike.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/12b_mnist_loglike.ipynb)
 
+
+- Day 5
+  - Topics: Probabilistic Prediction Models
+<!--   - Slides:  
+  	- [05_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/05_Details.pdf)
+  - Exercises and Homework:  
+	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
+	- Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
+  - Solutions to Exercises:  
+	- [13_Sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb)   	
+	- [14_Sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb)   -->
 
 
 
