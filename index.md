@@ -54,8 +54,7 @@ The course is split in 8 sessions, each 4 lectures long.
 ## Syllabus (might change during course) 
 - Day 1
   - Topics: Introduction, Fully Connected Networks (fcNN) 
-  - Slides: 
-     - [01_Introduction](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/01_Introduction.pdf)
+  - Slides: [01_Introduction](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/01_Introduction.pdf)
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises and Homework: 
@@ -67,8 +66,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 2
   - Topics: Looking back at fcNN, DL framework Keras, convolutional neural networks (CNN)
-  - Slides: 
-     - [02_fcNN_CNN](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/02_fcNN_CNN.pdf)
+  - Slides:  [02_fcNN_CNN](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/02_fcNN_CNN.pdf)
   - Additional Material: 
     - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
   - Exercises and Homework: 
@@ -87,8 +85,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 3
   - Topics: Convolutional neural networks (CNN) 
-  - Slides: 
-     - [03_CNN](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/03_CNN.pdf)
+  - Slides: [03_CNN](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/03_CNN.pdf)
   - Exercises and Homework:  
     - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
     - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_tricks_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
@@ -103,8 +100,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 4
   - Topics: Details Backpropagation in DL, MaxLike-Principle
-  - Slides:
-  	- [04_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/04_Details.pdf)
+  - Slides: [04_Training_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/04_Details.pdf)
   - Exercises and Homework:
 	- Backprop. linear regression eager [10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/10_linreg_tensorflow.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/10_linreg_tensorflow.ipynb) 	
 	- Optional Backprop static graph[11_backpropagation](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/11_backpropagation.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/11_backpropagation.ipynb)
@@ -114,8 +110,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 5
   - Topics: Probabilistic Prediction Models
-  - Slides:  
-  	- [05_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/05_Probabilistic_Modeling.pdf)
+  - Slides:  [05_Probabilistic_Models](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/05_Probabilistic_Modeling.pdf)
   - Exercises and Homework:  
 	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
 	- Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
@@ -126,8 +121,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 - Day 6
   - Topics: Flexible CPDs
-  - Slides:  
-  - [06_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/06_flexible_CPDs.pdf) 
+  - Slides: [06_flexible_CPDs](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/06_flexible_CPDs.pdf) 
   - Exercises and Homework:  
 	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/15_faces_regression.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/15_faces_regression.ipynb)  
 	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
