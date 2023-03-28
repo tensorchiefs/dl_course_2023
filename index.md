@@ -127,7 +127,7 @@ The course is split in 8 sessions, each 4 lectures long.
 - Day 6
   - Topics: Flexible CPDs
   - Slides:  
-<!--   	- [06_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/06_flexible_CPDs.pdf) -->
+  - [06_Details](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/06_flexible_CPDs.pdf) 
   - Exercises and Homework:  
 	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/15_faces_regression.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/15_faces_regression.ipynb)  
 	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
