@@ -130,8 +130,9 @@ The course is split in 8 sessions, each 4 lectures long.
 	- [16_Sol](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb)  
 
 
-
-
+- Day 7
+  - Topics: Ensembling and Bayes
+  - Slides: [07_ensembling_bayes](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/07_ensembling_bayes.pdf) 
 
 
 
