@@ -137,5 +137,9 @@ The course is split in 8 sessions, each 4 lectures long.
   	- Classification with Ensembles and Bayes [17_cifar10_ensemble_bayes](https://github.com/tensorchiefs/dl_course_2023/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2023/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb)  
 	- Bayesian Model for Coin Toss [18_bayesian_coin_toss](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)
 
+- Day 8
+  - Topics: Bayes (continued), Projects
+  - Slides: [08_bayes_2023](https://github.com/tensorchiefs/dl_course_2023/blob/master/slides/08_bayes_2023.pdf)  
+
 
 
